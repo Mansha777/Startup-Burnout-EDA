@@ -8,12 +8,9 @@ An exploratory data analysis project on a dataset of 50,000 startup founders, in
 - Target Variables: `Burnout_Level`, `Startup_Failure_Flag`
 
 ## Project Structure
-Startup-Burnout-EDA/
-│
-├── startup_analysis.py       # Main analysis script
-├── startup_founder_burnout_2026.csv  # Dataset
-└── README.md
-
+- `startup_analysis.py` — Main analysis script
+- `startup_founder_burnout_2026.csv` — Dataset
+- `README.md` — Project documentation
 
 ## Key Questions Answered
 
